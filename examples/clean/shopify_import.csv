@@ -1,0 +1,4 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Variant Image,Variant Weight Unit,Cost per item,Status
+classic-tee,Classic Tee,Cotton tee,Northwind Supply,,,,true,Color,Black,Size,S,,,TEE-BLK-S,,shopify,12,deny,manual,24.99,,true,true,012345678901,,,,false,,,,,8.50,draft
+classic-tee,,,,,,,,Color,Black,Size,M,,,TEE-BLK-M,,shopify,7,deny,manual,24.99,,true,true,012345678902,,,,false,,,,,8.50,
+classic-tee,,,,,,,,Color,White,Size,S,,,TEE-WHT-S,,shopify,4,deny,manual,24.99,,true,true,012345678903,,,,false,,,,,8.50,

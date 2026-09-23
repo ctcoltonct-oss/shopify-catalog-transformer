@@ -1,0 +1,7 @@
+sources=failure_supplier.csv
+accepted_rows=0
+rejected_rows=3
+products=0
+markup={'type': 'multiplier', 'amount': 2.2}
+vendor_default=Northwind Supply
+note=Images must already be public URLs. No values invented.

@@ -1,0 +1,7 @@
+sources=clean_supplier.csv,supplier_b.csv
+accepted_rows=5
+rejected_rows=0
+products=3
+markup={'type': 'multiplier', 'amount': 2.2}
+vendor_default=Northwind Supply
+note=Images must already be public URLs. No values invented.

@@ -1,0 +1,6 @@
+check,value
+output_rows,2
+rejected_rows,3
+unique_handles,2
+duplicate_skus_detected,1
+headers_ok,True

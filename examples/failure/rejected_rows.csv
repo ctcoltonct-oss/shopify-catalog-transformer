@@ -1,0 +1,4 @@
+source_file,source_row,sku,title,reasons
+failure_supplier.csv,2,FAIL-1,,missing_title;blank_price
+failure_supplier.csv,3,FAIL-1,Broken Thing,negative_price
+failure_supplier.csv,4,FAIL-2,No Price,unparseable_price:ask

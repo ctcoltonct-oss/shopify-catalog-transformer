@@ -1,0 +1,5 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Variant Image,Variant Weight Unit,Cost per item,Status
+hood-100,Zip Hoodie,,Northwind Supply,,,,true,Color,Navy,Size,S,,,HOOD-100-S-NAV,,,,deny,manual,48.00,,true,true,9001,,,,false,,,,,,draft
+hood-100,,,,,,,,Color,Navy,Size,M,,,HOOD-100-M-NAV,,,,deny,manual,48.00,,true,true,9002,,,,false,,,,,,
+hood-100,,,,,,,,Color,Navy,Size,L,,,HOOD-100-L-NAV,,,,deny,manual,48.00,,true,true,9003,,,,false,,,,,,
+hood-100,,,,,,,,Color,Grey,Size,S,,,HOOD-100-S-GRY,,,,deny,manual,48.00,,true,true,9004,,,,false,,,,,,

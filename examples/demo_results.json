@@ -1,0 +1,37 @@
+[
+  {
+    "accepted": 3,
+    "rejected": 0,
+    "products": 1,
+    "import_path": "examples/clean/shopify_import.csv",
+    "case": "clean"
+  },
+  {
+    "accepted": 2,
+    "rejected": 3,
+    "products": 2,
+    "import_path": "examples/messy/shopify_import.csv",
+    "case": "messy"
+  },
+  {
+    "accepted": 4,
+    "rejected": 0,
+    "products": 1,
+    "import_path": "examples/variants/shopify_import.csv",
+    "case": "variants"
+  },
+  {
+    "accepted": 5,
+    "rejected": 0,
+    "products": 3,
+    "import_path": "examples/multi/shopify_import.csv",
+    "case": "multi"
+  },
+  {
+    "accepted": 0,
+    "rejected": 3,
+    "products": 0,
+    "import_path": "examples/failure/shopify_import.csv",
+    "case": "failure"
+  }
+]

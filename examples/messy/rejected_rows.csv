@@ -1,0 +1,4 @@
+source_file,source_row,sku,title,reasons
+messy_supplier.xlsx,4,LMP-02,,missing_title;blank_price
+messy_supplier.xlsx,5,LMP-03,Floor Lamp,unparseable_price:eighteen
+messy_supplier.xlsx,3,LMP-01,Desk Lamp,duplicate_sku;duplicate_barcode
