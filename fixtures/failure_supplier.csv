@@ -1,0 +1,4 @@
+SKU,Product Name,Retail,Barcode
+FAIL-1,,,
+FAIL-1,Broken Thing,-5,bad
+FAIL-2,No Price,ask,8001

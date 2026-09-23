@@ -1,0 +1,11 @@
+{
+  "vendor": "Northwind Supply",
+  "published": true,
+  "status": "draft",
+  "inventory_policy": "deny",
+  "fulfillment_service": "manual",
+  "taxable": true,
+  "requires_shipping": true,
+  "group_by": "parent_or_title",
+  "markup": {"type": "multiplier", "amount": 2.2}
+}

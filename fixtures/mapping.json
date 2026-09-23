@@ -1,0 +1,12 @@
+{
+  "default": {},
+  "messy_supplier.xlsx": {
+    "Item #": "sku",
+    "Item": "title",
+    "Cost": "cost",
+    "MAP": "compare_at",
+    "UPC": "barcode",
+    "Colour": "option_color",
+    "Size": "option_size"
+  }
+}
